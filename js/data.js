@@ -32,7 +32,7 @@ let lista_componentes = [
     },
     {
         id: 7,
-        nombre: "Disco duro",
+        nombre: "HDD",
         img: "https://github.com/ROCKEMMA/img/blob/main/Parte_de_computador/disco_duro.png?raw=true"
     },
     {
@@ -42,7 +42,7 @@ let lista_componentes = [
     },
     {
         id: 9,
-        nombre: "Unidad SSD",
+        nombre: "SSD",
         img: "https://github.com/ROCKEMMA/img/blob/main/Parte_de_computador/ssd.png?raw=true"
     },
     {
